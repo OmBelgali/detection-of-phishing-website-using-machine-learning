@@ -14,8 +14,8 @@ This project is a **real-time phishing website detector** built using a machine 
 | └── `app.py`              | Flask backend server. |
 | └── `templates/index.html`| Tailwind CSS frontend to input URL and see results. |
 | └── `models/`             | Contains the trained model and selected features. |
-|     └── `random_forest_model.pkl` |
-|     └── `selected_features.pkl`   |
+|       └── `random_forest_model.pkl` |
+|       └── `selected_features.pkl`   |
 
 ---
 
